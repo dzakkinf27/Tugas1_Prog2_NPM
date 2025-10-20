@@ -1,1 +1,3 @@
-# Tugas1_Prog2_NPM
+Nama : 
+Kelas : 
+NPM : 
